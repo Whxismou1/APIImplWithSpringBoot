@@ -1,7 +1,5 @@
 # Implementacion básica API SpringBoot
 
-Breve descripción del propósito y funcionalidad de tu proyecto.
-
 ## Requisitos Previos
 
 Asegúrate de tener instalado lo siguiente o versiones similares:
